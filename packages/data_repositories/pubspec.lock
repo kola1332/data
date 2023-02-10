@@ -43,6 +43,20 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.5"
+  data_models:
+    dependency: "direct main"
+    description:
+      path: "../data_models"
+      relative: true
+    source: path
+    version: "1.0.0+1"
+  data_services:
+    dependency: "direct main"
+    description:
+      path: "../data_services"
+      relative: true
+    source: path
+    version: "1.0.0+1"
   fake_async:
     dependency: transitive
     description:

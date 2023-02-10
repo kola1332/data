@@ -10,6 +10,10 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  data_models:
+    path: ../data_models
+  data_services:
+    path: ../data_services
 
 dev_dependencies:
   flutter_test:
